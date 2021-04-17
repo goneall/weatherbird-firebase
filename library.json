@@ -1,0 +1,24 @@
+{
+  "name": "weatherbird-firebase",
+
+  "version": "0.0.1",
+
+  "keywords": "arduino, esp32, firebase, weather",
+
+  "description": "Store sensor data in the Firebase real-time database for WeatherBird.  Assumes the network has already been provisioned.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/goneall/weatherbird-firebase"
+  },
+  "authors":
+  [
+    {
+        "name": "goneall",
+        "email": "gary@sourceauditor.com",
+        "maintainer": true
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}

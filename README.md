@@ -1,2 +1,2 @@
 # weatherbird-firebase
-Firebase support for weatherbird
+Library to support storing sensor data in Google Firebase Realtime Database.  See examples for usage.
